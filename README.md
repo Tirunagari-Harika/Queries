@@ -1,11 +1,11 @@
 # Queries
 
-[Issue](https://codesandbox.io/s/cool-hermann-hncn2)
+a) [Issue](https://codesandbox.io/s/cool-hermann-hncn2)
 
 Unable to use State properly in the comp when I use HOC on it.
 
 
-Want to useState properly
+b) Want to useState properly
 [Issue](https://codesandbox.io/s/pensive-lumiere-lggyy)
 
 Actually seState() promotes asynchronous updates to state as we know.
