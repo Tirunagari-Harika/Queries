@@ -14,7 +14,6 @@ But could not achieve the same scenario for useState. For useState, I need to co
 
 
 c) [Code](https://codesandbox.io/s/dazzling-bas-rwm88)
-
     In the above example I want to create a HOC for DataFetcher to separate the Loading and data display logic. Can u give me the rough overall idea to develop.
 
 
