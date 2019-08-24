@@ -21,7 +21,7 @@ c) [Code](https://codesandbox.io/s/dazzling-bas-rwm88)
     [github code is in this link](https://github.com/Tirunagari-Harika/react-api-data-display/tree/master/RenderProps)  
   
  
- ##HTTP Requests types
+ ## HTTP Requests types
  [Fetch HTTP](http://github.com/Tirunagari-Harika/react-api-data-display)
  <a href="http://github.com/Tirunagari-Harika/react-api-data-display" target="_blank">Http Requests</a>
  
