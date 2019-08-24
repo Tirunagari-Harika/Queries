@@ -20,12 +20,12 @@ c) [Code](https://codesandbox.io/s/dazzling-bas-rwm88)
     When we already have Render Props we can implement the logic of returning Loading or Error component
     [github code is in this link](https://github.com/Tirunagari-Harika/react-api-data-display/tree/master/RenderProps)  
   
- ```
+ 
  ##HTTP Requests types
  [Fetch HTTP](http://github.com/Tirunagari-Harika/react-api-data-display)
  <a href="http://github.com/Tirunagari-Harika/react-api-data-display" target="_blank">Http Requests</a>
  
- ```
+ 
     
     
     
