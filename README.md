@@ -26,6 +26,11 @@ c) [Code](https://codesandbox.io/s/dazzling-bas-rwm88)
  <a href="http://github.com/Tirunagari-Harika/react-api-data-display" target="_blank">Http Requests</a>
  
  
+ ## Range.io Angular
+ 
+ https://angular-2-training-book.rangle.io/directives/structural_directives/using_multiple_structural_directives
+ 
+ 
     
     
     
